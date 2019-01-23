@@ -10,4 +10,4 @@ In order to demonstrate popping the calculator, Chrome should be run on the comm
 
 Afterwards, open **test_poc.html** and press the **GO** button.
 
-If the exploit fails, re-run the exploit on a new tab. Ways to improve reliability is discussed in the [blog post](https://blog.exodusintel.com/).
+If the exploit fails, re-run the exploit on a new tab. Ways to improve reliability is discussed in the [blog post](https://blog.exodusintel.com/2019/01/22/exploiting-the-magellan-bug-on-64-bit-chrome-desktop).
